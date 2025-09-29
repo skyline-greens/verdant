@@ -85,6 +85,14 @@ Azure Kubernetes Service with Event Grid acting as the central MQTT message brok
 - System resilience with offline fallback logic
 - Centralized cloud analytics for multiple greenhouses
 
+# Source code
+- [Infrastructure](https://github.com/skyline-greens/infra.git)
+- [Backend](https://github.com/skyline-greens/backend.git)
+- [Frontend](https://github.com/skyline-greens/frontend2.git)
+- [Raspberry Pi](https://github.com/skyline-greens/pi.git)
+- [ESP](https://github.com/skyline-greens/esp.git)
+- [Arduino Uno](https://github.com/skyline-greens/arduino-uno.git)
+
 # Project Team
 - **MERZOUKA Younes Abdel Samade**
 - **TOUBAL SEGHIR Kheir Eddine**
