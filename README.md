@@ -8,7 +8,10 @@ optimize crop production in urban environments. It integrates real-time monitori
 decision-making, and remote control across multiple greenhouses and growing cells.
 
 # Results
-![Control Demo](output.gif)
+### Control Demo
+![Control Demo](gif/control.gif)
+### Monitoring Demo
+![Monitoring Demo](gif/monitoring.gif)
 
 # Features
 - Autonomy: Each growing cell operates independently using an ESP8266 equipped with sensors for: 
