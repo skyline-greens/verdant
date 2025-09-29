@@ -7,6 +7,9 @@ Verdant is a vertical indoor farming system that combines IoT, cloud computing, 
 optimize crop production in urban environments. It integrates real-time monitoring, smart 
 decision-making, and remote control across multiple greenhouses and growing cells.
 
+# Results
+![Control Demo](output.gif)
+
 # Features
 - Autonomy: Each growing cell operates independently using an ESP8266 equipped with sensors for: 
  temperature, humidity, light, soil moisture, and CO₂; and actuators: water pumps, air pumps, heaters, 
@@ -75,6 +78,7 @@ Azure Kubernetes Service with Event Grid acting as the central MQTT message brok
 - System resilience with offline fallback logic
 - Centralized cloud analytics for multiple greenhouses
 
+# Project Team
 - **MERZOUKA Younes Abdel Samade**
 - **TOUBAL SEGHIR Kheir Eddine**
 - **MOULAY LAKHDAR Zakaria**
