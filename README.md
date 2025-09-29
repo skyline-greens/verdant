@@ -10,11 +10,11 @@ decision-making, and remote control across multiple greenhouses and growing cell
 # Results
 <details>
     <summary>Control Demo</summary>
-    ![Control Demo](gif/control.gif)
+    <img src="gif/control.gif" alt="Control Demo">
 </details>
 <details>
     <summary>Monitoring Demo</summary>
-    ![Monitoring Demo](gif/monitoring.gif)
+    <img src="gif/monitoring.gif" alt="Monitoring Demo">
 </details>
 
 # Features
